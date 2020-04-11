@@ -1,0 +1,16 @@
+# ignore wp installation
+*
+
+# include these
+!/wp-content/
+!/wp-content/themes/
+!/wp-content/themes/oceanwp/
+!/wp-content/themes/oceanwp/functions.php
+!/wp-content/themes/oceanwp/inc/
+!/wp-content/themes/oceanwp/inc/shortcodes.php
+!/wp-content/themes/oceanwp/assets/
+!/wp-content/themes/oceanwp/assets/img/
+!/wp-content/themes/oceanwp/assets/img/lf20_mBK8iA.json
+
+# include gitignore
+!.gitignore
